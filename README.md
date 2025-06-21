@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://i.ibb.co/qpxpGmC/image.jpg" alt="Jisshu-Auto-filter">
+  <img src="https://files.catbox.moe/zbmo06.jpg" alt="𝐒ᴜ𝐬ᴀɴᴛ 𝐀ᴜᴛᴏ 𝐅ɪʟᴛᴇ 𝐁ᴏᴛ">
 </p>
 <h1 align="center">
-  <a href="https://telegram.me/JISSHU_BOTS">Jisshu Auto Filter Bot</a>
+  <a href="https://telegram.me/SUSANTXBOTZ">𝐒ᴜ𝐬ᴀɴᴛ 𝐀ᴜᴛᴏ 𝐅ɪʟᴛᴇ 𝐁ᴏᴛ</a>
 </h1>
-<img src="https://cdn.jsdelivr.net/gh/Jisshubot/Jisshubot/resources/hr.gif"/>
+<img src="https://files.catbox.moe/zbmo06.jpg"/>
 
 ## **𝐶𝑜𝑚𝑚𝑎𝑛𝑑𝑠**
 
@@ -78,7 +78,7 @@
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/Jisshubot/Jisshu-filter-bot">
+<a href="https://heroku.com/deploy?template=https://github.com/badshahboom/ERAxMOVIES">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy To Heroku">
 </a>
 </p>
@@ -117,7 +117,7 @@ Use these settings when adding a monitor:</b>
 <b>Click on the below button to deploy directly to render ↓</b>
 <br>
 <br>
-<a href="https://render.com/deploy?repo=https://github.com/Jisshubots/Jisshu-filter-bot/tree/main">
+<a href="https://render.com/deploy?repo=https://github.com/badshahboom/ERAxMOVIES/tree/main">
 <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
 </a>
 </details>
