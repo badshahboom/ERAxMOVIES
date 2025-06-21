@@ -139,15 +139,7 @@ python3 bot.py
 
 ## **Thanks to** 
  - <b>Thanks To [Zishan Khan](https://t.me/JISSHU_BOTS) To Modify And Add Amazing Feature In The Repo
- - Thanks To [biisal](https://github.com/biisal/biisal-filter-bot) For Base Repo
- - Thanks To [Ꭺɴᴏɴʏᴍᴏᴜꜱ](https://t.me/TG_Anonymous_Official) To refresh Future Code and Update premium future</b>
- - Thanks To [Zoro](https://t.me/JOYBOY_ZORO) Your ideas have been a huge help in improving this project. Thanks for your valuable input!
- - Thanks To [ɪᴛ'ꜱ ʟᴜғғʏ](https://t.me/CoderluffyTG) For fixing key errors and making the bot better. Your help has been truly appreciated!
- - Thanks To All Everyone In This Journey
- <img src="https://cdn.jsdelivr.net/gh/Jisshubot/Jisshubot/resources/hr.gif"/>
 
-<img src="https://github.com/Jisshubot/Jisshubot/blob/master/resources/hr.gif"/>
-<h1> <img src="https://cdn.jsdelivr.net/gh/Jisshubot/JISSHU_BOTS/Logo/Jisshu.png" width="70px" style="border-radius: 50%"> ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </h1>
   
 [<img src="https://raw.githubusercontent.com/AnonymousX1025/AnonymousX1025/master/resources/telegram_icon.png" width="60px">](https://telegram.im/@IM_SUSANT) [<img src="https://raw.githubusercontent.com/AnonymousX1025/AnonymousX1025/master/resources/github_icon.png" width="60px">](https://github.com/Susantbotz) [<img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/insta_icon.png" width="60px">](https://instagram.com/Unknown_uzumaki_07_)
 
