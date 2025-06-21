@@ -4,7 +4,7 @@
 <h1 align="center">
   <a href="https://telegram.me/SUSANTXBOTZ">𝐒ᴜ𝐬ᴀɴᴛ 𝐀ᴜᴛᴏ 𝐅ɪʟᴛᴇ 𝐁ᴏᴛ</a>
 </h1>
-<img src="https://files.catbox.moe/zbmo06.jpg"/>
+<img src=""/>
 
 ## **𝐶𝑜𝑚𝑚𝑎𝑛𝑑𝑠**
 
