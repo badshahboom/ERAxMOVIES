@@ -41,7 +41,7 @@ async def pm_search(client, message):
             return await auto_filter(client, message)
         await auto_filter(client, message)
     else:
-        await message.reply_text("<b><i>ɪ ᴀᴍ ɴᴏᴛ ᴡᴏʀᴋɪɴɢ ʜᴇʀᴇ. ꜱᴇᴀʀᴄʜ ᴍᴏᴠɪᴇꜱ ɪɴ ᴏᴜʀ ᴍᴏᴠɪᴇ ꜱᴇᴀʀᴄʜ ɢʀᴏᴜᴘ.</i></b>", reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("📝 ᴍᴏᴠɪᴇ ꜱᴇᴀʀᴄʜ ɢʀᴏᴜᴘ ", url=MOVIE_GROUP_LINK)]]))
+        await message.reply_text("<b><i>ɪ ᴀᴍ ɴᴏᴛ ᴡᴏʀᴋɪɴɢ ʜᴇʀᴇ. ꜱᴇᴀʀᴄʜ ᴍᴏᴠɪᴇꜱ ɪɴ ᴏᴜʀ ᴍᴏᴠɪᴇ ꜱᴇᴀʀᴄʜ ɢʀᴏᴜᴘ.</i></b>", reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("📝 ᴍᴏᴠɪᴇ ꜱᴇᴀʀᴄʜ ɢʀᴏᴜᴘ ", url='Https://t.me/ERA_MOVIE_GROUP')]]))
         
     
 @Client.on_message(filters.group & filters.text & filters.incoming)
@@ -58,7 +58,7 @@ async def group_search(client, message):
                 return
             files, n_offset, total = await get_search_results(message.text, offset=0)
             if total != 0:
-                msg = await message.reply_text(script.SUPPORT_GRP_MOVIE_TEXT.format(message.from_user.mention(), total), reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton('ɢᴇᴛ ғɪʟᴇs ғʀᴏᴍ ʜᴇʀᴇ 😉' , url=MOVIE_GROUP_LINK)]]))
+                msg = await message.reply_text(script.SUPPORT_GRP_MOVIE_TEXT.format(message.from_user.mention(), total), reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton('ɢᴇᴛ ғɪʟᴇs ғʀᴏᴍ ʜᴇʀᴇ 😉' , url='Https://t.me/ERA_MOVIE_GROUP')]]))
                 await asyncio.sleep(300)
                 return await msg.delete()
             else: 
@@ -904,7 +904,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
 	    
     elif query.data == "free":
         buttons = [[
-            InlineKeyboardButton('☆📸 ꜱᴇɴᴅ ꜱᴄʀᴇᴇɴꜱʜᴏᴛ 📸☆', url=f'https://telegram.me/{OWNER_USERNAME}')
+            InlineKeyboardButton('☆📸 ꜱᴇɴᴅ ꜱᴄʀᴇᴇɴꜱʜᴏᴛ 📸☆', url=f'https://telegram.me/Empire_7860')
         ],[
             InlineKeyboardButton('💎 ᴄᴜꜱᴛᴏᴍ ᴘʟᴀɴ 💎', callback_data='other')
         ],[
@@ -925,7 +925,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     
     elif query.data == "other":
         buttons = [[
-            InlineKeyboardButton('📲 ᴄᴏɴᴛᴀᴄᴛ ᴛᴏ ᴏᴡɴᴇʀ', url=f'https://telegram.me/{OWNER_USERNAME}')
+            InlineKeyboardButton('📲 ᴄᴏɴᴛᴀᴄᴛ ᴛᴏ ᴏᴡɴᴇʀ', url=f'https://telegram.me/Empire_7860')
         ],[
             InlineKeyboardButton('• 𝗕𝗮𝗰𝗸 •', callback_data='free')
         ]]
@@ -983,7 +983,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
  
     elif query.data == "source":
         buttons = [[
-            InlineKeyboardButton('ʀᴇᴘᴏ', url='https://github.com/JisshuTG/Jisshu-filter-bot')
+            InlineKeyboardButton('ʀᴇᴘᴏ', url='https://t.me/SusantxBotz')
         ],[
             InlineKeyboardButton('⋞ ʙᴀᴄᴋ', callback_data='about'),
             InlineKeyboardButton('• ᴄʟᴏsᴇ •', callback_data='close_data')
@@ -997,7 +997,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
 	
     elif query.data == "disclaimer":
             btn = [[
-                    InlineKeyboardButton("📲 ᴄᴏɴᴛᴀᴄᴛ ᴛᴏ ᴏᴡɴᴇʀ ",  url=f'https://telegram.me/{OWNER_USERNAME}')
+                    InlineKeyboardButton("📲 ᴄᴏɴᴛᴀᴄᴛ ᴛᴏ ᴏᴡɴᴇʀ ",  url=f'https://telegram.me/Empire_7860')
                ],[
                     InlineKeyboardButton("⇋ ʙᴀᴄᴋ ⇋", callback_data="about")
                   ]]
