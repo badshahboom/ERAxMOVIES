@@ -138,7 +138,7 @@ python3 bot.py
 
 
 ## **Thanks to** 
- - <b>Thanks To [Zishan Khan](https://t.me/JISSHU_BOTS) To Modify And Add Amazing Feature In The Repo
+ - <b>Thanks To [𝐒 𝐔 𝐒 𝚲 𝚴 𝐓](https://t.me/IM_SUSANT) To Modify And Add Amazing Feature In The Repo
 
   
 [<img src="https://raw.githubusercontent.com/AnonymousX1025/AnonymousX1025/master/resources/telegram_icon.png" width="60px">](https://telegram.im/@IM_SUSANT) [<img src="https://raw.githubusercontent.com/AnonymousX1025/AnonymousX1025/master/resources/github_icon.png" width="60px">](https://github.com/Susantbotz) [<img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/insta_icon.png" width="60px">](https://instagram.com/Unknown_uzumaki_07_)
